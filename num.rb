@@ -7,7 +7,6 @@ a = gets
 puts "choose 2nd number"
 b = gets
 
-
 case 
 when a < b
    puts "a is smaller than b"
